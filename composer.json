@@ -1,6 +1,11 @@
 {
     "name": "schorsch3000/squeuelite",
     "description": "a simple queueing mechanism based in sqlite",
+    "keywords": [
+        "queue",
+        "sqlite"
+    ],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Schorsch3000\\SQueueLite\\": "SQueueLite/"
