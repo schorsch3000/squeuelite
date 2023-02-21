@@ -1,0 +1,20 @@
+{
+    "name": "schorsch3000/squeuelite",
+    "description": "a simple queueing mechanism based in sqlite",
+    "autoload": {
+        "psr-4": {
+            "Schorsch3000\\SQueueLite\\": "SQueueLite/"
+        }
+    },
+    "authors": [
+        {
+            "name": "schorsch 3000",
+            "email": "schorsch3000@shnbk.de"
+        }
+    ],
+    "require-dev": {
+        "codeception/codeception": "^5.0",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*"
+    }
+}
